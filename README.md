@@ -1,4 +1,4 @@
-# Power BI-Dashboards
+# Power BI-Dashboard
 📊 E-commerce Sales Dashboard
 An interactive dashboard to analyze e-commerce sales performance. It provides insights into 💰 revenue trends, 🛍️ top-selling products, 👥 customer demographics, and 🌍 regional sales distribution. Built using SQL, Python, and Power BI.
 
